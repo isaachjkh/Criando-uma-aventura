@@ -1,0 +1,17 @@
+body {
+    background-color: beige;
+    color:rgb(0, 0, 0);
+    font-family: "Roboto", sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: 700px;
+    margin: 0;
+ 
+}
+
+button {
+    background-color: #64A712;
+    color: rgb(255, 255, 255);
+    font-family: "Roboto", sans-serif;
+
+}
